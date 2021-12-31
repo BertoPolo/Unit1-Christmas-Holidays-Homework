@@ -1,0 +1,17 @@
+#infoAlert {
+  background: rgb(41, 40, 40);
+  position: absolute;
+  top: 0;
+  height: 40px;
+  width: 100%;
+}
+
+#navy {
+  color: gray !important;
+  font-size: small;
+}
+
+header {
+  background-image: url("/./airbnb/assets/imgs/homepage/57b9f708-bb12-498c-bc33-769f8fc43e63.jpg");
+  background-color: #000000;
+}
