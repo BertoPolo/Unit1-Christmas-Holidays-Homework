@@ -13,20 +13,19 @@
 }
 
 nav {
-  top: 1.25rem;
-  /* opacity: 0.5; */
+  top: 2rem;
 }
 nav img {
-  height: 50px;
+  height: 40px;
 }
 #navAccount {
   background: rgb(255, 255, 255);
 }
 .bi.bi-person-circle {
-  background: rgba(170, 170, 170, 0.986);
+  background: rgba(145, 144, 144, 0.986);
   border-radius: 50%;
   border-style: solid;
-  border-color: rgba(170, 170, 170, 0.986);
+  border-color: rgba(145, 144, 144, 0.986);
   border-width: 1.2px;
 }
 
