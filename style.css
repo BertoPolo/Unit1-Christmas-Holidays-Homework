@@ -2,22 +2,39 @@
   background: rgb(41, 40, 40);
   position: absolute;
   top: 0;
-  height: 20px;
+  height: 40px;
   width: 100%;
 }
 #infoAlertA {
   color: gray !important;
-  font-size: 10px !important;
+  font-size: 15px !important;
   margin: 0;
   padding: 0;
 }
 
 nav {
   top: 1.25rem;
-  opacity: 0.5;
+  /* opacity: 0.5; */
+}
+nav img {
+  height: 50px;
+}
+#navAccount {
+  background: rgb(255, 255, 255);
+}
+.bi.bi-person-circle {
+  background: rgba(170, 170, 170, 0.986);
+  border-radius: 50%;
+  border-style: solid;
+  border-color: rgba(170, 170, 170, 0.986);
+  border-width: 1.2px;
 }
 
 header {
+  background-color: rgb(0, 0, 0);
   background-image: url("/./airbnb/assets/imgs/homepage/57b9f708-bb12-498c-bc33-769f8fc43e63.jpg");
-  background-color: #000000;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  height: 100vh;
 }
