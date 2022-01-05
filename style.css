@@ -37,3 +37,26 @@ header {
   background-repeat: no-repeat;
   height: 100vh;
 }
+
+#searcher {
+  background: white;
+}
+
+#searcher input {
+  border-style: none;
+}
+
+#searchHelperWhite {
+  background: white;
+  display: inline-block;
+  width: 130px;
+}
+#searchHelperWhite b {
+  color: rgb(131, 58, 180);
+}
+
+/* .back-searchDiv {
+  background: rgb(211, 21, 62);
+  width: 10px;
+  height: 10px;
+} */
